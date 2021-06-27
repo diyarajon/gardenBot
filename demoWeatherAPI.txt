@@ -1,0 +1,13 @@
+3
+Austin, Texas, USA
+ 90 *F
+Humidity: 10%
+Normal   
+Fairbanks, Alaska, USA
+1 *F  
+Humidity: 40%
+Hail     
+Death Valley, Arizona, USA
+117 *F
+Humidity: 68%
+Heat Wave
